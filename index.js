@@ -88,7 +88,7 @@ async function pipeline(pca_model_path, knn_model, run_df) {
   console.log(ans);
 }
 
-// Load the ONNX model and perform inference
+// Run the pipeline
 pca_model_path = 'pca.onnx';
 knn_model = trainKNN();
 run_df = [
