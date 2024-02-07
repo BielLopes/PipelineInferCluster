@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ml-knn": "^3.0.0",
+    "node-pandas": "^1.0.5",
     "onnxjs": "^0.1.8"
   }
 }
